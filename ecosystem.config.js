@@ -4,7 +4,7 @@
 let cârtel = [
   {
     name: "Moderation",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'cartel',
     watch: false,
     exec_mode: "cluster",
@@ -13,7 +13,7 @@ let cârtel = [
   },
   {
     name: "Management",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'cartel',
     watch: false,
     exec_mode: "cluster",
@@ -22,7 +22,7 @@ let cârtel = [
   },
   {
     name: "Statistics",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'cartel',
     watch: false,
     exec_mode: "cluster",
@@ -31,7 +31,7 @@ let cârtel = [
   },
  {
     name: "Guard 1",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'Guard.Client.js',
     watch: false,
     exec_mode: "cluster",
@@ -40,7 +40,7 @@ let cârtel = [
   },
   {
     name: "Guard 2",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'Guard.Client.js',
     watch: false,
     exec_mode: "cluster",
@@ -49,7 +49,7 @@ let cârtel = [
   },
   {
     name: "Guard 3",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'Guard.Client.js',
     watch: false,
     exec_mode: "cluster",
@@ -58,7 +58,7 @@ let cârtel = [
   },
   {
     name: "Guard 4",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'Guard.Client.js',
     watch: false,
     exec_mode: "cluster",
@@ -67,7 +67,7 @@ let cârtel = [
   },
   {
     name: "Guard 5",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'Guard.Client.js',
     watch: false,
     exec_mode: "cluster",
@@ -76,7 +76,7 @@ let cârtel = [
   },
   {
     name: "FIREWALL_DİSTRİBUTORS",
-    namespace: "cârteL#4000",
+    namespace: "RAVGAR",
     script: 'cartel',
     watch: false,
     exec_mode: "cluster",
