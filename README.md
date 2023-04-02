@@ -7,8 +7,8 @@
 # PROJEDE OLAN ASALAKLAR;
 
 # `onlybusiness#0001`
-# `Wedze#0009``
-# `elchâvo.py#1508
+# `Wedze#0009`
+# `elchâvo.py#1508`
 # `Takachi ✦#7609`
 # `croesus#0105`
 # `Jalix#0001`
